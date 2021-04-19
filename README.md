@@ -1,6 +1,6 @@
 # JavaFX计算器
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/javafx_calculator/blob/master/images/javafx-vs-swing.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/javafx-vs-swing.png)
 
 
 这是我第一次使用JavaFX，以前的GUI一般是用Swing写，显然JavaFX是优于Swing的，只是可惜并没有得到广泛的应用。
@@ -11,7 +11,7 @@
 运行时是这个样子的：
 
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/javafx_calculator/blob/master/images/javafx-calculator.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/javafx-calculator.png)
 
 
 ## 未完成的功能
